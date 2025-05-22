@@ -2,7 +2,7 @@
 
 *Appassionato di programmazione, creazione e innovazione. Studio Ingegneria Informatica (7% completato) e vivo tra tecnologia e smartphone.!*
 
-![Coding GIF](https://github.com/BlockRockAdmin/BlockRockAdmin/blob/main/code-matrix.gif)
+![Coding GIF](https://github.com/BlockRockAdmin/BlockRockAdmin/blob/main/cyberpunk-2077.gif)
 
 ---
 
