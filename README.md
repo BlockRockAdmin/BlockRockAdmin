@@ -1,6 +1,5 @@
 # Innovatore Tecnologico | Fondatore di Blockrock ed EasyFix
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Innovazione+Tecnologica)  
 *Vivo per la tecnologia: programmo, riparo, creo. Con **Blockrock** ed **EasyFix**, sto costruendo il futuro!*
 
 ---
@@ -63,9 +62,9 @@ Ovvero, innovare senza sosta, costruire tecnologia e lasciare un impatto duratur
 
 ## 📬 Contattami
 Scopri di più sui miei progetti e connettiti con me!  
-[![LinkVibe](https://img.shields.io/badge/LinkVibe-%40tuo_profilo-blue)](https://linkvibe.com/tuo_profilo)  
-[![GitHub](https://img.shields.io/badge/GitHub-tuo_username-black)](https://github.com/tuo_username)  
-[![X](https://img.shields.io/badge/X-%40tuo_profilo-blue)](https://x.com/tuo_profilo)
+[![LinkVibe](https://img.shields.io/badge/LinkVibe-%40tuo_profilo-blue)](https://linkvibe.com/tuo_profilo](https://linkvibes.netlify.app/))  
+[![GitHub](https://img.shields.io/badge/GitHub-tuo_username-black)](https://github.com/tuo_username](https://github.com/BlockRockAdmin))  
+[![X](https://img.shields.io/badge/X-%40tuo_profilo-blue)](https://x.com/tuo_profilo](https://x.com/alessandrolupi9))
 
 ---
 
