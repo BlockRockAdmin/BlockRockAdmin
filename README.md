@@ -73,8 +73,8 @@ Scopri di più sui miei progetti e connettiti con me!
 ## 💡 Citazione preferita
 *"What you do today can improve all of your tomorrows."*  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo_username&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuo_username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlockRockAdmin&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlockRockAdmin&theme=radical)
 
 ---
 
