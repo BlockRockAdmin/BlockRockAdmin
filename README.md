@@ -1,8 +1,8 @@
 # Multi-Stack Developer | Fondatore di Blockrock ed EasyFix
 
-*Appassionato di programmazione, creazione e innovazione. Studio Ingegneria Informatica (7% completato) e vivo tra tecnologia e smartphone.!*
+![Coding GIF](https://github.com/BlockRockAdmin/BlockRockAdmin/blob/main/cyberpunk-2077.gif)
+>Appassionato di programmazione, creazione e innovazione. Studio Ingegneria Informatica (7% completato) e vivo tra tecnologia e smartphone.!
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Innovazione+Tecnologica) 
 
 ---
 
