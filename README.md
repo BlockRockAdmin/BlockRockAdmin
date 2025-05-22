@@ -2,6 +2,8 @@
 
 *Appassionato di programmazione, creazione e innovazione. Studio Ingegneria Informatica (7% completato) e vivo tra tecnologia e smartphone.!*
 
+![Header Image](https://tenor.com/it/view/code-matrix-gif-15241589) 
+
 ---
 
 ## 😎 Chi sono
