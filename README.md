@@ -1,6 +1,6 @@
-# Innovatore Tecnologico | Fondatore di Blockrock ed EasyFix
+# Multi-Stack Developer | Fondatore di Blockrock ed EasyFix
 
-*Vivo per la tecnologia: programmo, riparo, creo. Con **Blockrock** ed **EasyFix**, sto costruendo il futuro!*
+*Appassionato di programmazione, creazione e innovazione. Studio Ingegneria Informatica (7% completato) e vivo tra tecnologia e smartphone.!*
 
 ---
 
