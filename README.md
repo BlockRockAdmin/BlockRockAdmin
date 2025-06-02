@@ -79,3 +79,6 @@ Scopri di più sui miei progetti e connettiti con me!
 ---
 
 *Unisciti alla rivoluzione tecnologica! 🚀*
+
+## Supporta il Progetto
+Supportarlo tramite [GitHub Sponsors](https://github.com/sponsors/BlockRockAdmin)!
